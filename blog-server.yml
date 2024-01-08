@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Blog related docker APIs "
+  contactDetails:
+    name: "Tran Phuoc Loc"
+    email: "tranphuocloc070699@gmail.com"
+    enviroment: "Local"
+  onCallSupport:
+    - (+84) 774-917-635
