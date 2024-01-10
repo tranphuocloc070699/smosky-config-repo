@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 blog-server:
-  message: "Welcome to Blog related docker APIs After Edit"
+  message: "Welcome to Blog related docker APIs"
   contactDetails:
     name: "Tran Phuoc Loc"
     email: "tranphuocloc070699@gmail.com"
