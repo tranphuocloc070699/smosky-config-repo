@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-blog-server:
+boilerplate-server:
   message: "Welcome to Boilerplate related docker APIs "
   contactDetails:
     name: "Tran Phuoc Loc"
