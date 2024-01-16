@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 boilerplate-server:
-  message: "Welcome to Boilerplate related docker APIs "
+  message: "Welcome to Boilerplate related docker APIs"
   contactDetails:
     name: "Tran Phuoc Loc"
     email: "tranphuocloc070699@gmail.com"
